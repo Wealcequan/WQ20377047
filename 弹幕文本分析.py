@@ -1,4 +1,5 @@
 #20377047 温泉 第二周作业
+#简单的弹幕文本分析任务
 import string
 import textwrap
 import difflib
